@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KNN">
+    <output-path>$PROJECT_DIR$/out/artifacts/KNN</output-path>
+    <root id="archive" name="KNN.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/COMP307A1/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
